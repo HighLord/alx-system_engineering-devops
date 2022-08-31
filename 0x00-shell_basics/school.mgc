@@ -1,2 +1,3 @@
+#!/bin/bash
 0 search school File containing "SCHOOL"
-!:mime School
+file -i -m school.mgc *
